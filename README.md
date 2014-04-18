@@ -6,3 +6,7 @@ Prototype App
  Schedular App for windows
  Database stored locally in a file
  Use MVVM pattern
+
+
+All Configuration Done.
+Ready to implement.
