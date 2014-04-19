@@ -17,3 +17,22 @@ c:\users\venkat pandey\documents\visual studio 2012\Projects\SAD_Prototype_WP8Ap
 c:\users\venkat pandey\documents\visual studio 2012\Projects\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.dll
 c:\users\venkat pandey\documents\visual studio 2012\Projects\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.pdb
 c:\users\venkat pandey\documents\visual studio 2012\Projects\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\XapCacheFile.xml
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\SAD_Prototype_WP8App.dll
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\SAD_Prototype_WP8App.pdb
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\AppManifest.xaml
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\SAD_Prototype_WP8App_Debug_AnyCPU.xap
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\App.g.cs
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\MainPage.g.cs
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.g.resources
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.Resources.AppResources.resources
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.csproj.GenerateResource.Cache
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.dll
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.pdb
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\XapCacheFile.xml
