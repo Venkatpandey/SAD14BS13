@@ -21,5 +21,10 @@ namespace SAD_Prototype_WP8App
         {
 
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Blah");
+        }
     }
 }
