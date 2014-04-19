@@ -16,5 +16,10 @@ namespace SAD_Prototype_WP8App
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

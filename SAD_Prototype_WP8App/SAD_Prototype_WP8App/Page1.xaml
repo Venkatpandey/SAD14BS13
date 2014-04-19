@@ -23,17 +23,17 @@
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
             <TextBlock Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Text="New Doc1" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}">
+            	<Run Text="New"/>
+            	<Run Text=" List"/>
+            </TextBlock>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <StackPanel HorizontalAlignment="Left" Height="607" VerticalAlignment="Top" Width="456">
-                <Button Content="Save" HorizontalAlignment="Left" VerticalAlignment="Top" Width="158"/>
-                <Button Content="Reminder" HorizontalAlignment="Left" Margin="138,0,0,0" VerticalAlignment="Top" Width="158"/>
-                <Button Content="Encrypt" HorizontalAlignment="Left" Margin="278,0,0,0" VerticalAlignment="Top" Width="158"/>
-            </StackPanel>
-
+            <Button Content="Encrypt" HorizontalAlignment="Left" Margin="314,521,-5,0" VerticalAlignment="Top" Height="76" Width="147"/>
+            <Button Content="Reminder" HorizontalAlignment="Left" Margin="162,521,0,0" VerticalAlignment="Top" Height="76" Width="152"/>
+            <Button Content="Save" HorizontalAlignment="Left" Margin="10,521,0,0" VerticalAlignment="Top" Height="76" Width="147" Click="Button_Click"/>
         </Grid>
     </Grid>
 
