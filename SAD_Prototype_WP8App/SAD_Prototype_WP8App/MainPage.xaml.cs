@@ -22,10 +22,9 @@ namespace SAD_Prototype_WP8App
             //BuildLocalizedApplicationBar();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            
-        }
+       
+
+      
 
         // Sample code for building a localized ApplicationBar
         //private void BuildLocalizedApplicationBar()

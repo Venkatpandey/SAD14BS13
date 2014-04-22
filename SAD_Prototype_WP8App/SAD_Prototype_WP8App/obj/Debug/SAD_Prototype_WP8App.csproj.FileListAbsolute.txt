@@ -57,3 +57,20 @@ C:\Users\Venkat Pandey\Documents\GitHub\SADBS14\SAD_Prototype_WP8App\SAD_Prototy
 C:\Users\Venkat Pandey\Documents\GitHub\SADBS14\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.dll
 C:\Users\Venkat Pandey\Documents\GitHub\SADBS14\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.pdb
 C:\Users\Venkat Pandey\Documents\GitHub\SADBS14\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\XapCacheFile.xml
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\SAD_Prototype_WP8App.dll
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\SAD_Prototype_WP8App.pdb
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\App.g.cs
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\MainPage.g.cs
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\New Task Page.g.cs
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\Page1.g.cs
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.g.resources
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.Resources.AppResources.resources
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.csproj.GenerateResource.Cache
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.dll
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.pdb
