@@ -50,7 +50,7 @@
 
         </Grid>
         <Grid HorizontalAlignment="Left" Height="587" Margin="14,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="459">
-            <Button Content="New Task" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-4.04,-0.642" Width="195" Click="Button_Click"/>
+            <Button Content="New Task" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-4.04,-0.642" Width="195" Click="Button_Click1"/>
             <Button Content="New List" HorizontalAlignment="Left" Margin="0,87,0,0" VerticalAlignment="Top" RenderTransformOrigin="-4.04,-0.642" Width="195" Click="Button_Click"/>
         </Grid>
 

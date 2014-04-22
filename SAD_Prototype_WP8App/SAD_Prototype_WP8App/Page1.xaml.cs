@@ -17,14 +17,16 @@ namespace SAD_Prototype_WP8App
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void AddBarClick(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/New Task Page.xaml", UriKind.Relative));
+        }
+
+        private void Pivot_Loaded(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Blah");
-        }
+      
     }
 }

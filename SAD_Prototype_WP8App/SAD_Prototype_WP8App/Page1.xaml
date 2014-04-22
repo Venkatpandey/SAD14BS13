@@ -23,20 +23,25 @@
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
             <TextBlock Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}">
-            	<Run Text="New"/>
-            	<Run Text=" List"/>
-            </TextBlock>
+            <TextBlock Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Text="Schedular"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
-        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <Button Content="Encrypt" HorizontalAlignment="Left" Margin="314,521,-5,0" VerticalAlignment="Top" Height="76" Width="147"/>
-            <Button Content="Reminder" HorizontalAlignment="Left" Margin="162,521,0,0" VerticalAlignment="Top" Height="76" Width="152"/>
-            <Button Content="Save" HorizontalAlignment="Left" Margin="10,521,0,0" VerticalAlignment="Top" Height="76" Width="147" Click="Button_Click"/>
-            <Button Content="Button" HorizontalAlignment="Left" Margin="273,274,0,0" VerticalAlignment="Top"/>
-            <Button Content="Button" HorizontalAlignment="Left" Margin="69,65,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,10">
+            <phone:Pivot HorizontalAlignment="Left" Height="447" Margin="10,0,0,0" Title="Please Select" VerticalAlignment="Top" Width="436" Loaded="Pivot_Loaded">
+                <phone:PivotItem CacheMode="{x:Null}" Header="Lists">
+                    <Grid/>
+                </phone:PivotItem>
+                <phone:PivotItem CacheMode="{x:Null}" Header="Tasks">
+                    <Grid/>
+                </phone:PivotItem>
+            </phone:Pivot>
         </Grid>
     </Grid>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" >
+            <shell:ApplicationBarIconButton IconUri="add.png" Text="Add"  Click="AddBarClick" />
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
 
 </phone:PhoneApplicationPage>

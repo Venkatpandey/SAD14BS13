@@ -22,6 +22,16 @@ namespace SAD_Prototype_WP8App
             //BuildLocalizedApplicationBar();
         }
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/Page1.xaml", UriKind.Relative));
+        }
+
+        private void Button_Click1(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/Page1.xaml", UriKind.Relative));
+        }
+
        
 
       
