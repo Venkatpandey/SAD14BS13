@@ -10,16 +10,11 @@ using Microsoft.Phone.Shell;
 
 namespace SAD_Prototype_WP8App
 {
-    public partial class New_Task_Page : PhoneApplicationPage
+    public partial class Page2 : PhoneApplicationPage
     {
-        public New_Task_Page()
+        public Page2()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
         }
 
         private void AppBarSave_Click(object sender, EventArgs e)

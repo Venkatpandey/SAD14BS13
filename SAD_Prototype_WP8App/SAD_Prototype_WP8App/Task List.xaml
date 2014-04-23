@@ -1,5 +1,5 @@
 ﻿<phone:PhoneApplicationPage
-    x:Class="SAD_Prototype_WP8App.New_Task_Page"
+    x:Class="SAD_Prototype_WP8App.Page2"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
@@ -23,19 +23,12 @@
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
             <TextBlock Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Margin="9,-7,12,0" Style="{StaticResource PhoneTextTitle1Style}">
-            	<Run Text="New"/>
-            	<Run Text=" Task"/>
-            </TextBlock>
+            <TextBlock Text="Task List" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
-        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="14,0,10,0">
-            <TextBlock HorizontalAlignment="Left" Height="441" Margin="10,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="427">
-            	<Run Text="Task"/>
-            	<Run Text=".."/>
-            </TextBlock>
-            <TextBox HorizontalAlignment="Left" Height="79" Margin="10,10,0,0" TextWrapping="Wrap" Text="Title..." VerticalAlignment="Top" Width="427"/>
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+
         </Grid>
     </Grid>
     <phone:PhoneApplicationPage.ApplicationBar>
@@ -45,7 +38,4 @@
             <shell:ApplicationBarIconButton IconUri="sync.png" Text="encrypt"  Click="AppBarReminder_Click" />
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>
-
-
 </phone:PhoneApplicationPage>
-
