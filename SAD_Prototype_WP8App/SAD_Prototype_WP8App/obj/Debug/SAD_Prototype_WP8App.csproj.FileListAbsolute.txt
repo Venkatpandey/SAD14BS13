@@ -79,3 +79,6 @@ C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Proto
 C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\Parent_List.g.cs
 C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\Task List.g.cs
 C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\New_Task_Page.g.cs
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\New_Task_Page.g.cs
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\Parent_List.g.cs
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\Task List.g.cs
