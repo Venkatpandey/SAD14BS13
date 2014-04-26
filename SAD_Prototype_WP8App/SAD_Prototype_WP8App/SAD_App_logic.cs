@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SAD_Prototype_WP8App
+namespace SadPrototypeWP8App
 {
     class SAD_App_logic
     {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SAD_Prototype_WP8App.Resources
+namespace SadPrototypeWP8App.Resources
 {
     using System;
 

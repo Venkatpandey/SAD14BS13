@@ -8,7 +8,7 @@ using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 
-namespace SAD_Prototype_WP8App
+namespace SadPrototypeWP8App
 {
     public partial class Parent_List : PhoneApplicationPage
     {
@@ -20,7 +20,7 @@ namespace SAD_Prototype_WP8App
 
         private void AddBarClick(object sender, EventArgs e)
         {
-            NavigationService.Navigate(new Uri("/New_Task_Page.xaml", UriKind.Relative));
+            NavigationService.Navigate(new Uri("/New_Note_Page.xaml", UriKind.Relative));
         }
 
         private void Pivot_Loaded(object sender, RoutedEventArgs e)

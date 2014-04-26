@@ -97,8 +97,8 @@
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="New_Task_Page.xaml.cs">
-      <DependentUpon>New_Task_Page.xaml</DependentUpon>
+    <Compile Include="New_Note_Page.xaml.cs">
+      <DependentUpon>New_Note_Page.xaml</DependentUpon>
     </Compile>
     <Compile Include="Parent_List.xaml.cs">
       <DependentUpon>Parent_List.xaml</DependentUpon>
@@ -123,7 +123,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="New_Task_Page.xaml">
+    <Page Include="New_Note_Page.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -144,6 +144,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="add.png" />
+    <Content Include="ApplicationIcon.png" />
     <Content Include="Assets\AlignmentGrid.png" />
     <Content Include="Assets\ApplicationIcon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

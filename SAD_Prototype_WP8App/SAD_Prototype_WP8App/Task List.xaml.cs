@@ -8,7 +8,7 @@ using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 
-namespace SAD_Prototype_WP8App
+namespace SadPrototypeWP8App
 {
     public partial class Task_List : PhoneApplicationPage
     {
