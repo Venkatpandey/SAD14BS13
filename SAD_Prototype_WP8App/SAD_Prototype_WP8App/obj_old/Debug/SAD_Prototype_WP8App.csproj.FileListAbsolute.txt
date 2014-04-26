@@ -82,4 +82,13 @@ C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Proto
 C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\New_Task_Page.g.cs
 C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\Parent_List.g.cs
 C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\Task List.g.cs
-C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\New_Note_Page.g.cs
+C:\Users\DEEPAK\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\New_Note_Page.g.cs
+C:\Users\Suryanarayanamurthy\Documents\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\App.g.cs
+C:\Users\Suryanarayanamurthy\Documents\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\MainPage.g.cs
+C:\Users\Suryanarayanamurthy\Documents\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\New_Note_Page.g.cs
+C:\Users\Suryanarayanamurthy\Documents\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\Parent_List.g.cs
+C:\Users\Suryanarayanamurthy\Documents\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\Task List.g.cs
+C:\Users\Suryanarayanamurthy\Documents\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.g.resources
+C:\Users\Suryanarayanamurthy\Documents\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.Resources.AppResources.resources
+C:\Users\Suryanarayanamurthy\Documents\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.csproj.GenerateResource.Cache
+C:\Users\Suryanarayanamurthy\Documents\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.dll

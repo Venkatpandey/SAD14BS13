@@ -6,9 +6,9 @@ using System.Windows.Markup;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
-using SadPrototypeWP8App.Resources;
+using SAD_Prototype_WP8App.Resources;
 
-namespace SadPrototypeWP8App
+namespace SAD_Prototype_WP8App
 {
     public partial class App : Application
     {

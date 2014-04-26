@@ -151,7 +151,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="add.png" />
-    <Content Include="ApplicationIcon.png" />
     <Content Include="Assets\AlignmentGrid.png" />
     <Content Include="Assets\ApplicationIcon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

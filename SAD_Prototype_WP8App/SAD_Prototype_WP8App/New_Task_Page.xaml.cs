@@ -10,9 +10,9 @@ using Microsoft.Phone.Shell;
 
 namespace SAD_Prototype_WP8App
 {
-    public partial class New_Note_Page : PhoneApplicationPage
+    public partial class New_Task_Page : PhoneApplicationPage
     {
-        public New_Note_Page()
+        public New_Task_Page()
         {
             InitializeComponent();
         }

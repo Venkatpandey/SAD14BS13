@@ -1,6 +1,6 @@
-﻿using SadPrototypeWP8App.Resources;
+﻿using SAD_Prototype_WP8App.Resources;
 
-namespace SadPrototypeWP8App
+namespace SAD_Prototype_WP8App
 {
     /// <summary>
     /// Provides access to string resources.

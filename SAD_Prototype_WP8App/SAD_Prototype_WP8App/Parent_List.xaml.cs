@@ -8,24 +8,62 @@ using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 
-namespace SadPrototypeWP8App
+namespace SAD_Prototype_WP8App
 {
     public partial class Parent_List : PhoneApplicationPage
     {
+        New_List_Page list1 = new New_List_Page();
+        New_List_Page list2 = new New_List_Page();
+        List<New_List_Page> oList = new List<New_List_Page>();
+        
+
         public Parent_List()
         {
             InitializeComponent();
+            list1.Name = "TestList1";
+            list2.Name = "TestList2";
+            
+            oList.Add(list1);
+            oList.Add(list2);
+            ListOfLists.ItemsSource = oList;
 
+            
         }
 
         private void AddBarClick(object sender, EventArgs e)
         {
-            NavigationService.Navigate(new Uri("/New_Note_Page.xaml", UriKind.Relative));
+            switch (MainPivot.SelectedIndex)
+            {
+                case 0:
+                    NavigationService.Navigate(new Uri("/New_List_Page.xaml", UriKind.Relative));
+                    break;
+
+                case 1:
+                    
+                    NavigationService.Navigate(new Uri("/New_Note_Page.xaml", UriKind.Relative));
+                    break;
+
+                default:
+                    throw new ArgumentOutOfRangeException();
+            }
+            
         }
 
         private void Pivot_Loaded(object sender, RoutedEventArgs e)
         {
+            switch (MainPivot.SelectedIndex)
+            {
+                case 0:
+                    
+                    break;
 
+                case 1:
+                    
+                    break;
+
+                default:
+                    throw new ArgumentOutOfRangeException();
+            }
         }
 
         private void button1_Click(object sender, RoutedEventArgs e)
@@ -49,8 +87,23 @@ namespace SadPrototypeWP8App
 
         private void Menu_Loaded(object sender, RoutedEventArgs e)
         {
-            //ListBox listBox = (sender as ListBox);
-            //listBox.SelectedIndex = -1;
+            ListBox listBox = (sender as ListBox);
+            listBox.SelectedIndex = -1;
+        }
+
+        private void Notes_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Lists_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+        bool isListFocused;
+        private void ListsPivotFocused(object sender, RoutedEventArgs e)
+        {
+            isListFocused = true;
         }
 
       
