@@ -97,11 +97,11 @@
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="New_List_Page.xaml.cs">
-      <DependentUpon>New_List_Page.xaml</DependentUpon>
+    <Compile Include="List_Page.xaml.cs">
+      <DependentUpon>List_Page.xaml</DependentUpon>
     </Compile>
-    <Compile Include="New_Note_Page.xaml.cs">
-      <DependentUpon>New_Note_Page.xaml</DependentUpon>
+    <Compile Include="Note_Page.xaml.cs">
+      <DependentUpon>Note_Page.xaml</DependentUpon>
     </Compile>
     <Compile Include="Parent_List.xaml.cs">
       <DependentUpon>Parent_List.xaml</DependentUpon>
@@ -126,11 +126,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="New_List_Page.xaml">
+    <Page Include="List_Page.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="New_Note_Page.xaml">
+    <Page Include="Note_Page.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

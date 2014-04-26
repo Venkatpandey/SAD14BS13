@@ -12,9 +12,9 @@ namespace SAD_Prototype_WP8App
 {
     public partial class Parent_List : PhoneApplicationPage
     {
-        New_List_Page list1 = new New_List_Page();
-        New_List_Page list2 = new New_List_Page();
-        List<New_List_Page> oList = new List<New_List_Page>();
+        List_Page list1 = new List_Page();
+        List_Page list2 = new List_Page();
+        List<List_Page> oList = new List<List_Page>();
         
 
         public Parent_List()

@@ -34,7 +34,7 @@ using System.Windows.Threading;
 namespace SAD_Prototype_WP8App {
     
     
-    public partial class New_List_Page : Microsoft.Phone.Controls.PhoneApplicationPage {
+    public partial class List_Page : Microsoft.Phone.Controls.PhoneApplicationPage {
         
         internal System.Windows.Controls.Grid LayoutRoot;
         
