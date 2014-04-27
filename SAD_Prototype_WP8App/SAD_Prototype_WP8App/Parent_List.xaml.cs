@@ -15,7 +15,7 @@ namespace SAD_Prototype_WP8App
         List_Page list1 = new List_Page();
         List_Page list2 = new List_Page();
         List<List_Page> oList = new List<List_Page>();
-        INavigate _navigation;
+        
         
 
         public Parent_List()
@@ -107,10 +107,10 @@ namespace SAD_Prototype_WP8App
         {
 
         }
-        bool isListFocused;
+        
         private void ListsPivotFocused(object sender, RoutedEventArgs e)
         {
-            isListFocused = true;
+            
         }
 
       

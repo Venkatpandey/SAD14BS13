@@ -37,12 +37,14 @@
                     <DataTemplate>
 
                         <StackPanel Orientation="Horizontal">
+                            <!--Content="{Binding Path=Title}"-->
+                            <CheckBox Name="TaskItem" Content="{Binding Path= Title}"
+                                
+                                  IsChecked="{Binding IsSelected}" ClickMode="Release"  Background="WhiteSmoke"
 
-                            <CheckBox Name="TaskItem" Content="{Binding Path=Title}"
-
-                                  IsChecked="{Binding IsSelected}" ClickMode="Release" 
-
-                Click="CheckBox_Click" ></CheckBox>
+                Click="CheckBox_Click" >
+                                
+                            </CheckBox>
                         </StackPanel>
 
                     </DataTemplate>
