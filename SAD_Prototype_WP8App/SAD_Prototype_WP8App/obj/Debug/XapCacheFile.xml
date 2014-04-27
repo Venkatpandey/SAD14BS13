@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<xapCache source="C:\Users\Suryanarayanamurthy\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\SAD_Prototype_WP8App_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="27.04.2014 17:00:17">
   <file source="C:\Users\Suryanarayanamurthy\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.dll" archivePath="SAD_Prototype_WP8App.dll" lastWriteTime="27.04.2014 17:00:16" />
   <file source="C:\Users\Suryanarayanamurthy\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\add.png" archivePath="add.png" lastWriteTime="23.04.2014 16:15:50" />
@@ -13,4 +14,23 @@
   <file source="C:\Users\Suryanarayanamurthy\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="23.04.2014 16:15:50" />
   <file source="C:\Users\Suryanarayanamurthy\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="23.04.2014 16:15:50" />
   <file source="C:\Users\Suryanarayanamurthy\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="27.04.2014 15:30:03" />
+=======
+﻿<xapCache source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\SAD_Prototype_WP8App_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="4/27/2014 16:05:45">
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\SAD_Prototype_WP8App.dll" archivePath="SAD_Prototype_WP8App.dll" lastWriteTime="4/27/2014 16:05:44" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\de-DE\SAD_Prototype_WP8App.resources.dll" archivePath="de-DE\SAD_Prototype_WP8App.resources.dll" lastWriteTime="4/27/2014 16:05:44" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\add.png" archivePath="add.png" lastWriteTime="4/22/2014 18:31:53" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="4/21/2014 18:34:41" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="4/21/2014 18:34:41" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="4/21/2014 18:34:41" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="4/21/2014 18:34:41" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="4/21/2014 18:34:41" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\delete.png" archivePath="delete.png" lastWriteTime="4/27/2014 14:54:21" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\encryp.png" archivePath="encryp.png" lastWriteTime="4/27/2014 15:50:59" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\feature.alarm.png" archivePath="feature.alarm.png" lastWriteTime="4/23/2014 10:25:40" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\save.png" archivePath="save.png" lastWriteTime="4/23/2014 10:25:40" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/27/2014 14:26:51" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="4/21/2014 18:34:41" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="4/21/2014 18:34:41" />
+  <file source="C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/27/2014 14:26:51" />
+>>>>>>> 5d312558342bd0ddbe51024d24d9cc5751c8e5a1
 </xapCache>
