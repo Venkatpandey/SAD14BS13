@@ -71,3 +71,4 @@ C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Proto
 C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\de-DE\SAD_Prototype_WP8App.resources.dll
 C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\obj\Debug\XapCacheFile.xml
 C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\delete.png
+C:\Users\Venkat Pandey\Documents\GitHub\SAD14BS13\SAD_Prototype_WP8App\SAD_Prototype_WP8App\Bin\Debug\encryp.png

@@ -24,8 +24,8 @@
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
             <TextBlock Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
             <TextBlock Margin="9,-7,12,0" Style="{StaticResource PhoneTextTitle1Style}">
-            	<Run Text="New"/>
-            	<Run Text=" Note"/>
+            	<Run Text="Note"/>
+            	<Run Text="s"/>
             </TextBlock>
         </StackPanel>
 
@@ -35,14 +35,14 @@
             	<Run Text="Task"/>
             	<Run Text=".."/>
             </TextBlock>
-            <TextBox HorizontalAlignment="Left" Height="79" Margin="10,10,0,0" TextWrapping="Wrap" Text="Title..." VerticalAlignment="Top" Width="427"/>
+            <TextBox HorizontalAlignment="Left" Height="79" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="427" Background="#BFFFFFFF" AcceptsReturn="True" ToolTipService.ToolTip="Title.."/>
         </Grid>
     </Grid>
     <phone:PhoneApplicationPage.ApplicationBar>
         <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" >
             <shell:ApplicationBarIconButton IconUri="save.png" Text="Save"  Click="AppBarSave_Click" />
             <shell:ApplicationBarIconButton IconUri="feature.alarm.png" Text="Reminder"  Click="AppBarReminder_Click" />
-            <shell:ApplicationBarIconButton IconUri="sync.png" Text="encrypt"  Click="AppBarReminder_Click" />
+            <shell:ApplicationBarIconButton IconUri="encryp.png" Text="encrypt"  Click="AppBarReminder_Click" />
             <shell:ApplicationBarIconButton IconUri="delete.png" Text="delete"  Click="AppBarReminder_Click" />
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>

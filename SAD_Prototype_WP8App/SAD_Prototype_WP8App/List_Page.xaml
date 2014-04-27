@@ -23,7 +23,10 @@
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
             <TextBlock Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Text="New List" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}">
+            	<Run Text="List"/>
+            	<Run Text="s"/>
+            </TextBlock>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
@@ -38,7 +41,8 @@
         <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" >
             <shell:ApplicationBarIconButton IconUri="save.png" Text="Save"  Click="AppBarSave_Click" />
             <shell:ApplicationBarIconButton IconUri="feature.alarm.png" Text="Reminder"  Click="AppBarReminder_Click" />
-            <shell:ApplicationBarIconButton IconUri="sync.png" Text="encrypt"  Click="AppBarReminder_Click" />
+            <shell:ApplicationBarIconButton IconUri="encryp.png" Text="encrypt"  Click="AppBarReminder_Click" />
+            <shell:ApplicationBarIconButton IconUri="delete.png" Text="delete"  Click="AppBarReminder_Click" />
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>
 

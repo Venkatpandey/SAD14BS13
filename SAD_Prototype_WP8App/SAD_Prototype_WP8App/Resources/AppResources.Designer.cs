@@ -61,7 +61,7 @@ namespace SAD_Prototype_WP8App.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to add, Save, Reminder, encrypt.
+        ///   Looks up a localized string similar to add, Save, Reminder, encrypt, delete.
         /// </summary>
         public static string AppBarButtonText {
             get {

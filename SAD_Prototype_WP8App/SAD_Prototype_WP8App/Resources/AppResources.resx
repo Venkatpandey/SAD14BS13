@@ -129,7 +129,7 @@
     <value>SAD_Prototype_WP8App</value>
   </data>
   <data name="AppBarButtonText" xml:space="preserve">
-    <value>add, Save, Reminder, encrypt</value>
+    <value>add, Save, Reminder, encrypt, delete</value>
   </data>
   <data name="AppBarMenuItemText" xml:space="preserve">
     <value>Menu Item</value>
