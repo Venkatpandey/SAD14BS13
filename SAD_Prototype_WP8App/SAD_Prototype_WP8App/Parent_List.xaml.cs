@@ -35,12 +35,12 @@ namespace SAD_Prototype_WP8App
             switch (MainPivot.SelectedIndex)
             {
                 case 0:
-                    NavigationService.Navigate(new Uri("/New_List_Page.xaml", UriKind.Relative));
+                    NavigationService.Navigate(new Uri("/List_Page.xaml", UriKind.Relative));
                     break;
 
                 case 1:
                     
-                    NavigationService.Navigate(new Uri("/New_Note_Page.xaml", UriKind.Relative));
+                    NavigationService.Navigate(new Uri("/Note_Page.xaml", UriKind.Relative));
                     break;
 
                 default:

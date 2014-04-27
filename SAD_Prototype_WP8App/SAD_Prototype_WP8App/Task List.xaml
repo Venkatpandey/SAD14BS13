@@ -36,6 +36,7 @@
             <shell:ApplicationBarIconButton IconUri="save.png" Text="Save"  Click="AppBarSave_Click" />
             <shell:ApplicationBarIconButton IconUri="feature.alarm.png" Text="Reminder"  Click="AppBarReminder_Click" />
             <shell:ApplicationBarIconButton IconUri="sync.png" Text="encrypt"  Click="AppBarReminder_Click" />
+            <shell:ApplicationBarIconButton IconUri="delete.png" Text="delete"  Click="AppBarReminder_Click" />
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>
 </phone:PhoneApplicationPage>
