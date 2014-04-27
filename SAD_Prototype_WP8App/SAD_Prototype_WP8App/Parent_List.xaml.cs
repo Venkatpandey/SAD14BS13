@@ -15,6 +15,7 @@ namespace SAD_Prototype_WP8App
         List_Page list1 = new List_Page();
         List_Page list2 = new List_Page();
         List<List_Page> oList = new List<List_Page>();
+        INavigate _navigation;
         
 
         public Parent_List()
@@ -35,12 +36,18 @@ namespace SAD_Prototype_WP8App
             switch (MainPivot.SelectedIndex)
             {
                 case 0:
-                    NavigationService.Navigate(new Uri("/New_List_Page.xaml", UriKind.Relative));
+                    {
+                //        _navigation.Navigate(
+                //        _navigation.UriFor<StockDetailsViewModel>()
+                //.WithParam(m => m.Symbol, snapshot.Symbol)
+                //.Navigate();
+                        NavigationService.Navigate(new Uri("/List_Page.xaml", UriKind.Relative));
+                    }
                     break;
 
                 case 1:
                     
-                    NavigationService.Navigate(new Uri("/New_Note_Page.xaml", UriKind.Relative));
+                    NavigationService.Navigate(new Uri("/Note_Page.xaml", UriKind.Relative));
                     break;
 
                 default:

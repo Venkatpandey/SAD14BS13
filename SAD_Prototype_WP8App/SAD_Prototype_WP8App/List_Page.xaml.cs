@@ -26,5 +26,28 @@ namespace SAD_Prototype_WP8App
         {
 
         }
+
+        private void NewItem_tb_KeyUp(object sender, System.Windows.Input.KeyEventArgs e)
+        {
+            if (e.Key == System.Windows.Input.Key.Enter)
+            {
+                if (NewItem_tb.Text != string.Empty)
+                {
+                    ItemsList.Items.Add(NewItem_tb.Text);
+                }
+            }
+        }
+
+        private void CheckBox_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+
+
+        internal void loadPage()
+        {
+            
+        }
     }
 }

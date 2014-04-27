@@ -22,14 +22,35 @@
 
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Text="New List" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock Text="" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
+        <TextBox HorizontalAlignment="Left" Height="79" Margin="12,0,0,0" TextWrapping="Wrap" Text="Title..." VerticalAlignment="Top" Width="427" Grid.Row="1" Name="Titel_Tb"/>
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <TextBox HorizontalAlignment="Left" Height="79" Margin="10,10,0,0" TextWrapping="Wrap" Text="Title..." VerticalAlignment="Top" Width="427"/>
-            <TextBlock HorizontalAlignment="Left" Height="441" Margin="10,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="427" Text="List..."/>
+
+
+            <ListBox Height="376" HorizontalAlignment="Left" Margin="10,149,0,0" Name="ItemsList" VerticalAlignment="Top" Width="408"  FontSize="36" SelectionMode="Multiple"  >
+                <ListBox.ItemTemplate>
+
+                    <DataTemplate>
+
+                        <StackPanel Orientation="Horizontal">
+
+                            <CheckBox Name="TaskItem" Content="{Binding Path=Title}"
+
+                                  IsChecked="{Binding IsSelected}" ClickMode="Release" 
+
+                Click="CheckBox_Click" ></CheckBox>
+                        </StackPanel>
+
+                    </DataTemplate>
+
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <TextBox HorizontalAlignment="Left" Height="72" Margin="0,72,0,0" TextWrapping="Wrap" Text="Add new item" VerticalAlignment="Top" Width="399" Name="NewItem_tb" KeyUp="NewItem_tb_KeyUp" />
+            <!--<TextBlock HorizontalAlignment="Left" Height="441" Margin="10,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="427" Text="List..."/>-->
 
         </Grid>
     </Grid>
