@@ -44,7 +44,7 @@
             <TextBlock Text="{Binding Path=_localizedResources.ApplicationTitle, Source={StaticResource _LocalizedStrings}}" 
      Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0"/>
             <TextBlock Text="{Binding Path=LocalizedResources.PageName, Source={StaticResource LocalizedStrings}}" 
-    Style="{StaticResource PhoneTextNormalStyle}" Margin="9,-7,0,0"/>
+    Style="{StaticResource PhoneTextNormalStyle}" Margin="9,-7,0,0" FontSize="72"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
