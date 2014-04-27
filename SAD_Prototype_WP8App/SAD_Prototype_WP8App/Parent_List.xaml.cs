@@ -12,20 +12,20 @@ namespace SAD_Prototype_WP8App
 {
     public partial class Parent_List : PhoneApplicationPage
     {
-        List_Page list1 = new List_Page();
-        List_Page list2 = new List_Page();
-        List<List_Page> oList = new List<List_Page>();
+        //List_Page list1 = new List_Page();
+        //List_Page list2 = new List_Page();
+        //List<List_Page> oList = new List<List_Page>();
         
 
         public Parent_List()
         {
             InitializeComponent();
-            list1.Name = "TestList1";
-            list2.Name = "TestList2";
+            //list1.Name = "TestList1";
+            //list2.Name = "TestList2";
             
-            oList.Add(list1);
-            oList.Add(list2);
-            ListOfLists.ItemsSource = oList;
+            //oList.Add(list1);
+            //oList.Add(list2);
+            //ListOfLists.ItemsSource = oList;
 
             
         }
