@@ -1,3 +1,4 @@
+
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,22 +13,23 @@ namespace SAD_Prototype_WP8App
 {
     public partial class Parent_List : PhoneApplicationPage
     {
-        //List_Page list1 = new List_Page();
-        //List_Page list2 = new List_Page();
-        //List<List_Page> oList = new List<List_Page>();
-        
+        List_Page list1 = new List_Page();
+        List_Page list2 = new List_Page();
+        List<List_Page> oList = new List<List_Page>();
+
+
 
         public Parent_List()
         {
             InitializeComponent();
-            //list1.Name = "TestList1";
-            //list2.Name = "TestList2";
-            
-            //oList.Add(list1);
-            //oList.Add(list2);
-            //ListOfLists.ItemsSource = oList;
+            list1.Name = "TestList1";
+            list2.Name = "TestList2";
 
-            
+            oList.Add(list1);
+            oList.Add(list2);
+            ListOfLists.ItemsSource = oList;
+
+
         }
 
         private void AddBarClick(object sender, EventArgs e)
@@ -35,18 +37,24 @@ namespace SAD_Prototype_WP8App
             switch (MainPivot.SelectedIndex)
             {
                 case 0:
-                    NavigationService.Navigate(new Uri("/List_Page.xaml", UriKind.Relative));
+                    {
+                        //        _navigation.Navigate(
+                        //        _navigation.UriFor<StockDetailsViewModel>()
+                        //.WithParam(m => m.Symbol, snapshot.Symbol)
+                        //.Navigate();
+                        NavigationService.Navigate(new Uri("/List_Page.xaml", UriKind.Relative));
+                    }
                     break;
 
                 case 1:
-                    
+
                     NavigationService.Navigate(new Uri("/Note_Page.xaml", UriKind.Relative));
                     break;
 
                 default:
                     throw new ArgumentOutOfRangeException();
             }
-            
+
         }
 
         private void Pivot_Loaded(object sender, RoutedEventArgs e)
@@ -54,11 +62,11 @@ namespace SAD_Prototype_WP8App
             switch (MainPivot.SelectedIndex)
             {
                 case 0:
-                    
+
                     break;
 
                 case 1:
-                    
+
                     break;
 
                 default:
@@ -100,12 +108,12 @@ namespace SAD_Prototype_WP8App
         {
 
         }
-        bool isListFocused;
+
         private void ListsPivotFocused(object sender, RoutedEventArgs e)
         {
-            isListFocused = true;
+
         }
 
-      
+
     }
 }

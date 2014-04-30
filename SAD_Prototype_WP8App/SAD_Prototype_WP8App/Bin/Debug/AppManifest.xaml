@@ -1,6 +1,5 @@
 ﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SAD_Prototype_WP8App" EntryPointType="SAD_Prototype_WP8App.App" RuntimeVersion="4.7.50308.0">
   <Deployment.Parts>
     <AssemblyPart x:Name="SAD_Prototype_WP8App" Source="SAD_Prototype_WP8App.dll" />
-    <AssemblyPart Source="de-DE/SAD_Prototype_WP8App.resources.dll" />
   </Deployment.Parts>
 </Deployment>
