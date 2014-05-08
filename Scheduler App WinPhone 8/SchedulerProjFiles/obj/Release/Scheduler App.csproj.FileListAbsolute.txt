@@ -1,0 +1,33 @@
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Release\View\App.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Release\View\AddNotification.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Release\View\MainPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Release\View\NewTaskPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Release\View\PasswordPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Release\SchedulerApp.g.resources
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\ApplicationIcon.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\Background.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\Images\ApplicationIcon.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\Images\Background.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\Images\save.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\Images\appbar.add.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\Images\appbar.cancel.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\Images\appbar.check.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\Images\appbar.delete.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\Library\Microsoft.Phone.Controls.Toolkit.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\SchedulerApp.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\SchedulerApp.pdb
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\AppManifest.xaml
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\Properties\WMAppManifest.xml
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\TaskScheduler_Release_AnyCPU.xap
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\Microsoft.Phone.Controls.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Release\View\App.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Release\View\AddNotification.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Release\View\MainPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Release\View\NewTaskPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Release\View\PasswordPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Release\SchedulerApp.g.resources
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Release\SchedulerApp.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Release\SchedulerApp.pdb
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Release\XapCacheFile.xml
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Release\Scheduler App.csprojResolveAssemblyReference.cache

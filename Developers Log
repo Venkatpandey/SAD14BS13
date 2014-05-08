@@ -14,4 +14,57 @@ UI-21-04-2014
 
 02:48 4/22/2014 sample app using MVVM pattern done.--Venkat
 
-#blah
+15:24 4/27/2014
+
+------surya-15:27 4/27/2014-------
+1-List box logic
+2-parent list->list (display appropiatly)
+--------------------
+
+-----Venkat--15:27 4/27/2014-----
+1- text box tooltip kind service change
+2-navigation with objects... no *.xml ..research topic
+3-lacalization stuffs
+4-basic ui mod--new note page..
+--------------------
+
+----------- 4/28/2014--------
+1-test it
+2-fix the issue
+3-implement logic for notes
+4-test both-->list, notes
+5-convert to MVVM
+6-serialize..deserial
+7-test..test..
+----------------------------------
+
+
+-------------MASTER PLAN---------------
+1-MAKE THIS PROJECT WORK IN ALL ACER
+	--LEARN ABOUT GIT::
+2-TO GET MARKS PUSH IT TO GIT SYSTEMATICALLY--PRPOER COMMENTS; DIVIDE THE APP/CODE
+3-NOW ENTIRE PROJECT ON GIT
+4-REPLACE THIS PROJECT TO THE LIST PART AND CONTINUE IMPLEMENTING THE NOTE PART:
+5-aDD LOTS OF FEATURE-- SAVE LIST(L1-should work even after restarting device); DATABASE PART; ENCRYPTION; ALARM;
+6-TEST IT::DEMO--01-05-2014
+
+15:09 4/30/2014
+>show branch individually to get marks.
+
+
+>show discription for each task..new page...haveing alarm and it should be editable.
+
+18:47 5/1/2014
+
+3Am push to git
+
+1Am integrate code base
+
+till 1 Am
+
+
+
+
+
+
+

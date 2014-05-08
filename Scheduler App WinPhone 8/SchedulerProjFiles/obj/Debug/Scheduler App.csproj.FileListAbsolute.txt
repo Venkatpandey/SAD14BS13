@@ -1,0 +1,135 @@
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\ApplicationIcon.png
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Background.png
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\save.png
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Images\appbar.cancel.rest.png
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Images\appbar.check.rest.png
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Library\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\sdkLocalDatabaseCS.dll
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\sdkLocalDatabaseCS.pdb
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\AppManifest.xaml
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\sdkLocalDatabaseCS.xap
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\WindowsPhoneWatermarkTextBoxControl.dll
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\App.g.cs
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\AddNotification.g.cs
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\MainPage.g.cs
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\NewTaskPage.g.cs
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\PasswordPage.g.cs
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\sdkLocalDatabaseCS.g.resources
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\sdkLocalDatabaseCS.dll
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\sdkLocalDatabaseCS.pdb
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\XapCacheFile.xml
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\Scheduler App.csprojResolveAssemblyReference.cache
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\sdkLocalDatabaseCS.Resource.resources
+C:\Users\Venkat Pandey\Documents\SAD\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\Scheduler App.csproj.GenerateResource.Cache
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\ApplicationIcon.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Background.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Images\ApplicationIcon.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Images\Background.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Images\save.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Images\appbar.add.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Images\appbar.cancel.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Images\appbar.check.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Images\appbar.delete.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Library\Microsoft.Phone.Controls.Toolkit.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\SchedulerApp.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\SchedulerApp.pdb
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\AppManifest.xaml
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Properties\WMAppManifest.xml
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\TaskScheduler_Debug_AnyCPU.xap
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\Scheduler App.csprojResolveAssemblyReference.cache
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\View\App.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\View\AddNotification.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\View\MainPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\View\NewTaskPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\View\PasswordPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\SchedulerApp.g.resources
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\SchedulerApp.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\SchedulerApp.pdb
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\sdkLocalDatabaseCS\obj\Debug\XapCacheFile.xml
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\ApplicationIcon.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\Background.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\Images\ApplicationIcon.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\Images\Background.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\Images\save.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\Images\appbar.add.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\Images\appbar.cancel.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\Images\appbar.check.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\Images\appbar.delete.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\Library\Microsoft.Phone.Controls.Toolkit.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\SchedulerApp.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\SchedulerApp.pdb
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\AppManifest.xaml
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\Properties\WMAppManifest.xml
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\TaskScheduler_Debug_AnyCPU.xap
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Debug\View\App.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Debug\View\AddNotification.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Debug\View\MainPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Debug\View\NewTaskPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Debug\View\PasswordPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Debug\SchedulerApp.g.resources
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Debug\SchedulerApp.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Debug\SchedulerApp.pdb
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\C#\SchedulerProjFiles\obj\Debug\XapCacheFile.xml
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\Scheduler App.csprojResolveAssemblyReference.cache
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\View\App.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\View\AddNotification.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\View\MainPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\View\NewTaskPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\View\PasswordPage.g.cs
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\SchedulerApp.g.resources
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\SchedulerApp.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\SchedulerApp.pdb
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\ApplicationIcon.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Background.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\ApplicationIcon.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\Background.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\save.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\appbar.add.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\appbar.cancel.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\appbar.check.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\appbar.delete.rest.png
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Library\Microsoft.Phone.Controls.Toolkit.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\SchedulerApp.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\SchedulerApp.pdb
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\AppManifest.xaml
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Properties\WMAppManifest.xml
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\TaskScheduler_Debug_AnyCPU.xap
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+G:\Integration\Local Database Sample_UI_ChangedV2_V2.1\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\XapCacheFile.xml
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\ApplicationIcon.png
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Background.png
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\ApplicationIcon.png
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\Background.png
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\save.png
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\appbar.add.rest.png
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\appbar.cancel.rest.png
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\appbar.check.rest.png
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Images\appbar.delete.rest.png
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Library\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\SchedulerApp.dll
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\SchedulerApp.pdb
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\AppManifest.xaml
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\TaskScheduler_Debug_AnyCPU.xap
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\Scheduler App.csprojResolveAssemblyReference.cache
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\View\App.g.cs
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\View\AddNotification.g.cs
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\View\MainPage.g.cs
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\View\NewTaskPage.g.cs
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\View\PasswordPage.g.cs
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\SchedulerApp.g.resources
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\SchedulerApp.dll
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\SchedulerApp.pdb
+C:\Users\Venkat Pandey\Documents\SAD\Scheduler App WinPhone 8\Scheduler App WinPhone 8\SchedulerProjFiles\obj\Debug\XapCacheFile.xml
